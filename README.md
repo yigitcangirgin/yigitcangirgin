@@ -1,39 +1,21 @@
+# Hi, I'm Yiğit Can 👋
 
-<img src="https://media.giphy.com/media/1g3roDSU5NmwCDAhSW/giphy.gif" align = "right" width= "400" height="250">
+Software engineer (Bandırma Onyedi Eylül University, 2024) focused on **backend
+development with Python**, with an interest in **data and AI**. Looking for a junior backend /
+AI engineering role (remote, or Istanbul / Izmir / Ankara).
 
-### Hi there, I'm Yigit Can
+## Featured projects
+- **[İlanUyum](https://github.com/yigitcangirgin/ilanuyum)** – job application tracker REST API
+  built with FastAPI, SQLAlchemy, Alembic, JWT auth, Docker, pytest and GitHub Actions CI.
+- **[GAN ile cilt kanseri sınıflandırması ]** – synthetic data generation with GANs to improve skin lesion
+  classification on the HAM10000 dataset (ISIC). [Sonuç: %97 Accurate]
+- **[klassyweek e-ticaret sitesi](https://github.com/yigitcangirgin/e-commerce)** – e-commerce site built with Django.
 
-## Python Developer
+## Tech
+Python · FastAPI · Django · SQLAlchemy · PostgreSQL · SQLite · Docker · Git · pytest · HTML/CSS
 
+## Currently learning
+FastAPI (OAuth2, async), Alembic, background jobs, vector search (pgvector)
 
-<font color = "pink">Time To Grab Some Pepperoni Pizza
-<font>
-
-
-### Reach out to me
-
-[<img  width="22" src="https://unpkg.com/simple-icons@v6/icons/linkedin.svg" align = "left" />][LinkedIn]
-
-
-
-<br>
-<br>
-<br>
-<details>
-<summary>Github Stats</summary>
-<img src="https://github-readme-stats.vercel.app/api?username=yigitcangirgin&theme=dracula">
-</details>
-<br/>
-<br/>
-<details>
-<summary>Most Used Languages</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yigitcangirgin&layout=compact">
-</details>
-
-[LinkedIn]:https://www.linkedin.com/in/yi%C4%9Fit-can-girgin-b1916a1b9/
-<br/>
-<br/>
-
-### Tech I use
-<img src= "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width = "25" height = "25">
-<img src = "https://raw.githubusercontent.com/github/explore/f3e22f0dca2be955676bc70d6214b95b13354ee8/topics/c/c.png" width = "25"height = "25">
+## Contact
+[LinkedIn](https://www.linkedin.com/in/yigitcangirgin/) · yigitcan4540@gmail.com
