@@ -7,7 +7,7 @@ AI engineering role (remote, or Istanbul / Izmir / Ankara).
 ## Featured projects
 - **[İlanUyum](https://github.com/yigitcangirgin/ilanuyum)** – job application tracker REST API
   built with FastAPI, SQLAlchemy, Alembic, JWT auth, Docker, pytest and GitHub Actions CI.
-- **[GAN ile cilt kanseri sınıflandırması ]** – synthetic data generation with GANs to improve skin lesion
+- **[GAN ile cilt kanseri sınıflandırması ](https://github.com/yigitcangirgin/dermagan-ham10000)** – synthetic data generation with GANs to improve skin lesion
   classification on the HAM10000 dataset (ISIC). [Sonuç: %97 Accurate]
 - **[klassyweek e-ticaret sitesi](https://github.com/yigitcangirgin/e-commerce)** – e-commerce site built with Django.
 
