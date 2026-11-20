@@ -1,21 +1,25 @@
-# Hi, I'm Yiğit Can 👋
+# Yiğit Can Girgin
 
-Software engineer (Bandırma Onyedi Eylül University, 2024) focused on **backend
-development with Python**, with an interest in **data and AI**. Looking for a junior backend /
-AI engineering role (remote, or Istanbul / Izmir / Ankara).
+**Python backend developer · FastAPI · PostgreSQL · Docker**
 
-## Featured projects
-- **[İlanUyum](https://github.com/yigitcangirgin/ilanuyum)** – job application tracker REST API
-  built with FastAPI, SQLAlchemy, Alembic, JWT auth, Docker, pytest and GitHub Actions CI.
-- **[GAN ile cilt kanseri sınıflandırması ](https://github.com/yigitcangirgin/dermagan-ham10000)** – synthetic data generation with GANs to improve skin lesion
-  classification on the HAM10000 dataset (ISIC). [Sonuç: %97 Accurate]
-- **[klassyweek e-ticaret sitesi](https://github.com/yigitcangirgin/e-commerce)** – e-commerce site built with Django.
+Software Engineering graduate (Bandırma Onyedi Eylül University, 2024). I build REST APIs that ship with
+tests, database migrations and CI. Open to full-time backend roles in Türkiye: remote, İstanbul, İzmir or Ankara.
+
+## Projects
+
+| Project | What it is | Highlights |
+|---|---|---|
+| [İlanUyum](https://github.com/yigitcangirgin/ilanuyum) | Job application tracker API | JWT + Argon2 auth, per-user data isolation (404 instead of 403), Alembic, Docker Compose, pytest, GitHub Actions |
+| [KargoTakip](https://github.com/yigitcangirgin/kargo-takip-lite) | Cargo tracking API | Shipment state machine, event history, public tracking page, Docker Compose, pytest |
+| [DermaGAN](https://github.com/yigitcangirgin/dermagan-ham10000) | B.Sc. thesis, skin-lesion classification | Conditional GAN augmentation, transfer learning, rebuilt as a tested PyTorch package; fixed data leakage with a lesion-level split |
 
 ## Tech
-Python · FastAPI · Django · SQLAlchemy · PostgreSQL · SQLite · Docker · Git · pytest · HTML/CSS
 
-## Currently learning
-FastAPI (OAuth2, async), Alembic, background jobs, vector search (pgvector)
+**Backend:** Python, FastAPI, Django, SQLAlchemy 2.0, Pydantic, REST, JWT
+**Data:** PostgreSQL, SQLite, Alembic
+**Quality & DevOps:** pytest, ruff, Docker, Docker Compose, GitHub Actions, Linux
+**Also:** PyTorch, scikit-learn, C#
 
 ## Contact
+
 [LinkedIn](https://www.linkedin.com/in/yigitcangirgin/) · yigitcan4540@gmail.com
