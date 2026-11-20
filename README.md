@@ -15,10 +15,10 @@ tests, database migrations and CI. Open to full-time backend roles in Türkiye: 
 
 ## Tech
 
-**Backend:** Python, FastAPI, Django, SQLAlchemy 2.0, Pydantic, REST, JWT
-**Data:** PostgreSQL, SQLite, Alembic
-**Quality & DevOps:** pytest, ruff, Docker, Docker Compose, GitHub Actions, Linux
-**Also:** PyTorch, scikit-learn, C#
+- **Backend:** Python, FastAPI, Django, SQLAlchemy 2.0, Pydantic, REST, JWT
+- **Data:** PostgreSQL, SQLite, Alembic
+- **Quality & DevOps:** pytest, ruff, Docker, Docker Compose, GitHub Actions, Linux
+- **Also:** PyTorch, scikit-learn, C#
 
 ## Contact
 
